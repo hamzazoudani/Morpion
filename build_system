@@ -1,0 +1,2 @@
+ghc --make morpion.hs
+./morpion
